@@ -157,7 +157,7 @@ ul li.contact {
   width: 174px;
   height: 42px;
   left: 239px;
-  top: 24px;
+  top: 22px;
 
   font-family: Roboto;
   font-style: normal;
@@ -842,6 +842,7 @@ i:hover {
   top: 1012px;
   color: white;
   font-size: 28px;
+  font-family: Roboto;
 }
 .footer-logo{
   position: absolute;
