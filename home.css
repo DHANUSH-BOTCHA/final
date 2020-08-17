@@ -18,7 +18,7 @@ body {
   z-index: 1000;
   left: 0;
   top: 0;
-  width: 100vw;
+  width: auto;
   height: auto;
 }
 #header .nav-bar .back {
@@ -183,7 +183,7 @@ i:hover {
 }
 .social-container {
   position: absolute;
-  width: 1370px;
+  width: auto;
   height: 90px;
   left: 0px;
   top: 116px;
@@ -233,7 +233,7 @@ i:hover {
 /*main section of games*/
 #home {
   position: absolute;
-  width: 1370px;
+  width: auto;
   height: 700px;
   left: 1px;
   top: 206px;
