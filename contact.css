@@ -376,14 +376,14 @@ i:hover{
 }
 /*end of main-contact */
 /*footer*/
-.footer-title{
-	position: absolute;
-	width: 221px;
-	height: 42px;
-	left: 307px;
-	top: 942px;
-	color: white;
-	font-size: 28px;
+.footer-title {
+  position: absolute;
+  width: 221px;
+  height: 42px;
+  left: 215px;
+  top: 1012px;
+  color: white;
+  font-size: 28px;
 }
 .footer-logo{
   position: absolute;
@@ -396,106 +396,101 @@ i:hover{
   outline: none;
   border: none; 
 }
-.staright{
-	position: absolute;
-	width: 145px;
-	height: 0px;
-	left: 490px;
-	top: 920px;
+.staright {
+  position: absolute;
+  width: 145px;
+  height: 0px;
+  left: 410px;
+  top: 1004px;
 
-	border: 1px solid #FDF5F5;
-	transform: rotate(90deg);
+  border: 1px solid #fdf5f5;
+  transform: rotate(90deg);
 }
-.home{
-	position: absolute;
-	width: 69px;
-	height: 28px;
-	left: 703px;
-	top: 922px;
+.home {
+  position: absolute;
+  width: 69px;
+  height: 28px;
+  left: 533px;
+  top: 1012px;
 
-	font-family: Roboto;
-	font-style: normal;
-	font-weight: normal;
-	
-	list-style-type: none;
-	color: #FFF7F7;
-	text-decoration: none;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
 
+  list-style-type: none;
+  color: #fff7f7;
 }
-.horizontal0{
-	position: absolute;
-	width: 0.3px;
-	height: 36.67px;
-	left: 792.35px;
-	top: 934px;
-	color: white;
+.horizontal0 {
+  position: absolute;
+  width: 0.3px;
+  height: 36.67px;
+  left: 620px;
+  top: 1024px;
+  color: white;
+}
+.games1 {
+  position: absolute;
+  width: 81px;
+  height: 28px;
+  left: 625px;
+  top: 1012px;
+  list-style-type: none;
+  color: #fff7f7;
+}
+.horizontal1 {
+  position: absolute;
+  width: 0.3px;
+  height: 36.67px;
+  left: 719px;
+  top: 1024px;
+  color: white;
+}
+.about1 {
+  position: absolute;
+  width: 77px;
+  height: 28px;
+  left: 728px;
+  top: 1012px;
+  list-style-type: none;
+  color: #fff7f7;
+}
+.horizontal2 {
+  position: absolute;
+  width: 0.3px;
+  height: 36.67px;
+  left: 824px;
+  top: 1024px;
+  color: white;
+}
+.contact1 {
+  position: absolute;
+  width: 108px;
+  height: 28px;
+  left: 835px;
+  top: 1012px;
+  list-style-type: none;
+  color: #fff7f7;
+}
+.horizontal3 {
+  position: absolute;
+  width: 0.3px;
+  height: 36.67px;
+  left: 954px;
+  top: 1024px;
+  color: white;
+}
+.pp {
+  position: absolute;
+  width: 184px;
+  height: 28px;
+  left: 963px;
+  top: 1012px;
 
-}
-.games1{
-	position: absolute;
-	width: 81px;
-	height: 28px;
-	left: 809px;
-	top: 922px;
-	list-style-type: none;
-	color: #FFF7F7;
-}
-.horizontal1{
-	position: absolute;
-	width: 0.3px;
-	height: 36.67px;
-	left: 909px;
-	top: 934px;
-	color: white;
-}
-.about1{
-	position: absolute;
-	width: 77px;
-	height: 28px;
-	left: 932px;
-	top: 922px;
-	list-style-type: none;
-	color: #FFF7F7;
-}
-.horizontal2{
-	position: absolute;
-	width: 0.3px;
-	height: 36.67px;
-	left: 1024px;
-	top: 934px;
-	color: white;
-}
-.contact1{
-	position: absolute;
-	width: 108px;
-	height: 28px;
-	left: 1044px;
-	top: 922px;
-	list-style-type: none;
-	color: #FFF7F7;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
 
-}
-.horizontal3{
-	position: absolute;
-	width: 0.3px;
-	height: 36.67px;
-	left: 1174px;
-	top: 934px;
-	color: white;
-}
-.pp{
-	position: absolute;
-	width: 184px;
-	height: 28px;
-	left: 1183px;
-	top: 922px;
-
-	font-family: Roboto;
-	font-style: normal;
-	font-weight: normal;
-	
-	list-style-type: none;
-	color: #FFF7F7;
-	
+  list-style-type: none;
+  color: #fff7f7;
 }
 /*end of footer*/
