@@ -10,7 +10,7 @@
 	height: 1424px;
 	left: 0px;
 	top: 0px;
-	background: #080F35;
+	background: #06394e;
 }
 #header {
 	position: absolute;
@@ -37,9 +37,9 @@
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 36px;
+	font-size: 40px;
 	line-height: 42px;
-	color: #E64310;
+	color: #f79a5a;
 }
 #header .nav-list .bar {
 	text-decoration: none;
@@ -66,7 +66,7 @@
 	top: 60px;
 	text-align: center;
 	color: black;
-	background-color:#E64310; 
+	background-color:#083f57; 
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: normal;
@@ -159,7 +159,7 @@ ul li.contact{
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 32px;
+	font-size: 30px;
 	line-height: 42px;
 
 	color: #FCFCFC;
@@ -186,7 +186,7 @@ i:hover{
 	left: 0px;
 	top: 116px;
 
-	background: #0D7CBB;
+	background: #3d5b6f;
 }
 .social-2 {
 	position: absolute;
