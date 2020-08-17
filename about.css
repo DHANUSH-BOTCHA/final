@@ -96,6 +96,7 @@ ul li.games{
 	font-size: 20px;
 	list-style-type: none;
 	text-decoration: none;
+	font-family: Roboto;
 }
 ul p.horizontal{
 	position: absolute;
@@ -116,6 +117,7 @@ ul li.about{
 	color: white;
 	font-size: 20px;
 	text-decoration: none;
+	font-family: Roboto;
 }
 ul p.horizonta{
 	position: absolute;
@@ -135,6 +137,7 @@ ul li.contact{
 	color: white;
 	font-size: 20px;
 	list-style-type: none;
+	font-family: Roboto;
 }
 /*hr line at below the main heading*/
 /*hr{
@@ -347,6 +350,7 @@ i:hover{
   top: 1012px;
   color: white;
   font-size: 28px;
+  font-family: Roboto;
 }
 .footer-logo{
   position: absolute;
@@ -399,6 +403,7 @@ i:hover{
   top: 1012px;
   list-style-type: none;
   color: #fff7f7;
+  font-family: Roboto;
 }
 .horizontal1 {
   position: absolute;
@@ -416,6 +421,7 @@ i:hover{
   top: 1012px;
   list-style-type: none;
   color: #fff7f7;
+  font-family: Roboto;
 }
 .horizontal2 {
   position: absolute;
@@ -433,6 +439,7 @@ i:hover{
   top: 1012px;
   list-style-type: none;
   color: #fff7f7;
+  font-family: Roboto;
 }
 .horizontal3 {
   position: absolute;
