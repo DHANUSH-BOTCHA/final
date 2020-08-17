@@ -183,7 +183,7 @@ i:hover {
 }
 .social-container {
   position: absolute;
-  width: auto;
+  width: 1350;
   height: 90px;
   left: 0px;
   top: 116px;
@@ -233,7 +233,7 @@ i:hover {
 /*main section of games*/
 #home {
   position: absolute;
-  width: 1080;
+  width: 1370;
   height: 700px;
   left: 1px;
   top: 206px;
