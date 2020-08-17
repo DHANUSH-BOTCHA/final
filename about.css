@@ -153,7 +153,7 @@ ul li.contact{
 #main .main-container{
 	position: absolute;
 	width: 1380px;
-	height: 750px;
+	height: 720px;
 	left: 0px;
 	top: 203px;
 
@@ -321,7 +321,7 @@ i:hover{
 .bg-image{
 	position: absolute;
 	width: 436px;
-	height: 749px;
+	height: 719px;
 	
 	right: 3px;
 	top: 0px;
@@ -332,21 +332,21 @@ i:hover{
 .bg-left-image{
 	position: absolute;
 	width: 256px;
-	height: 749px;
+	height: 719px;
 	left: 2px;
 	top: 1px;
 
 	background: url(about_diamond_design.png);
 }
 /*footer*/
-.footer-title{
-	position: absolute;
-	width: 221px;
-	height: 42px;
-	left: 307px;
-	top: 1040px;
-	color: white;
-	font-size: 28px;
+.footer-title {
+  position: absolute;
+  width: 221px;
+  height: 42px;
+  left: 215px;
+  top: 1012px;
+  color: white;
+  font-size: 28px;
 }
 .footer-logo{
   position: absolute;
@@ -359,106 +359,102 @@ i:hover{
   outline: none;
   border: none; 
 }
-.staright{
-	position: absolute;
-	width: 130px;
-	height: 0px;
-	left: 490px;
-	top: 1030px;
+.staright {
+  position: absolute;
+  width: 145px;
+  height: 0px;
+  left: 410px;
+  top: 1004px;
 
-	border: 1px solid #FDF5F5;
-	transform: rotate(90deg);
+  border: 1px solid #fdf5f5;
+  transform: rotate(90deg);
 }
-.home{
-	position: absolute;
-	width: 69px;
-	height: 28px;
-	left: 703px;
-	top: 1015px;
+.home {
+  position: absolute;
+  width: 69px;
+  height: 28px;
+  left: 533px;
+  top: 1012px;
 
-	font-family: Roboto;
-	font-style: normal;
-	font-weight: normal;
-	
-	list-style-type: none;
-	color: #FFF7F7;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
 
+  list-style-type: none;
+  color: #fff7f7;
 }
-.horizontal0{
-	position: absolute;
-	width: 0.3px;
-	height: 36.67px;
-	left: 792.35px;
-	top: 1027px;
-	color: white;
+.horizontal0 {
+  position: absolute;
+  width: 0.3px;
+  height: 36.67px;
+  left: 620px;
+  top: 1024px;
+  color: white;
+}
+.games1 {
+  position: absolute;
+  width: 81px;
+  height: 28px;
+  left: 625px;
+  top: 1012px;
+  list-style-type: none;
+  color: #fff7f7;
+}
+.horizontal1 {
+  position: absolute;
+  width: 0.3px;
+  height: 36.67px;
+  left: 719px;
+  top: 1024px;
+  color: white;
+}
+.about1 {
+  position: absolute;
+  width: 77px;
+  height: 28px;
+  left: 728px;
+  top: 1012px;
+  list-style-type: none;
+  color: #fff7f7;
+}
+.horizontal2 {
+  position: absolute;
+  width: 0.3px;
+  height: 36.67px;
+  left: 824px;
+  top: 1024px;
+  color: white;
+}
+.contact1 {
+  position: absolute;
+  width: 108px;
+  height: 28px;
+  left: 835px;
+  top: 1012px;
+  list-style-type: none;
+  color: #fff7f7;
+}
+.horizontal3 {
+  position: absolute;
+  width: 0.3px;
+  height: 36.67px;
+  left: 954px;
+  top: 1024px;
+  color: white;
+}
+.pp {
+  position: absolute;
+  width: 184px;
+  height: 28px;
+  left: 963px;
+  top: 1012px;
 
-}
-.games1{
-	position: absolute;
-	width: 81px;
-	height: 28px;
-	left: 809px;
-	top: 1015px;
-	list-style-type: none;
-	color: #FFF7F7;
-}
-.horizontal1{
-	position: absolute;
-	width: 0.3px;
-	height: 36.67px;
-	left: 914px;
-	top: 1027px;
-	color: white;
-}
-.about1{
-	position: absolute;
-	width: 77px;
-	height: 28px;
-	left: 932px;
-	top: 1015px;
-	list-style-type: none;
-	color: #FFF7F7;
-}
-.horizontal2{
-	position: absolute;
-	width: 0.3px;
-	height: 36.67px;
-	left: 1026px;
-	top: 1027px;
-	color: white;
-}
-.contact1{
-	position: absolute;
-	width: 108px;
-	height: 28px;
-	left: 1044px;
-	top: 1015px;
-	list-style-type: none;
-	color: #FFF7F7;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
 
-}
-.horizontal3{
-	position: absolute;
-	width: 0.3px;
-	height: 36.67px;
-	left: 1171px;
-	top: 1027px;
-	color: white;
-}
-.pp{
-	position: absolute;
-	width: 184px;
-	height: 28px;
-	left: 1183px;
-	top: 1015px;
-
-	font-family: Roboto;
-	font-style: normal;
-	font-weight: normal;
-	
-	list-style-type: none;
-	color: #FFF7F7;
-	
+  list-style-type: none;
+  color: #fff7f7;
 }
 .copyright{
 	position: absolute;
