@@ -38,9 +38,9 @@ body {
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 36px;
+  font-size: 40px;
   line-height: 42px;
-  color: #e64310;
+  color: #f79a5a;
 }
 #header .nav-list .bar {
   text-decoration: none;
@@ -159,10 +159,10 @@ ul li.contact {
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 32px;
+  font-size: 30px;
   line-height: 42px;
 
-  color: #fcfcfc;
+  color: #ffffff;
 }
 i {
   color: white;
