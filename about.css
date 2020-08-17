@@ -6,8 +6,8 @@
 }
  html,body {
 	position: absolute;
-	width: 1350px;
-	height: 1024px;
+	width: auto;
+	height: auto;
 	left: 0px;
 	top: 0px;
 	background: #06394e;
