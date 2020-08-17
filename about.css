@@ -37,9 +37,9 @@
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 36px;
+	font-size: 40px;
 	line-height: 42px;
-	color: #E64310;
+	color: #f79a5a;
 }
 #header .nav-list .bar {
 	text-decoration: none;
@@ -66,11 +66,11 @@
 	top: 60px;
 	text-align: center;
 	color: black;
-	background-color:#E64310; 
+	background-color:#083f57; 
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 22px;
+	font-size: 20px;
 	line-height: 42px;
 }
 li a{
@@ -248,7 +248,7 @@ ul li.contact{
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 32px;
+	font-size: 30px;
 	line-height: 42px;
 
 	color: #FCFCFC;
